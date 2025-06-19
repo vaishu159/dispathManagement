@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "848207481227",
+    "firebase_url": "https://dispatchmanagement-3f886-default-rtdb.firebaseio.com",
+    "project_id": "dispatchmanagement-3f886",
+    "storage_bucket": "dispatchmanagement-3f886.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:848207481227:android:a6510ca0934e1a9cab078e",
+        "android_client_info": {
+          "package_name": "com.example.dispatch_management_system"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyChyUJowRmc0WqVQuXym-cLl2AwSZ-piPE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
